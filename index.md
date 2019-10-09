@@ -10,6 +10,6 @@ This project is a collaboration between art and engineering major students. We a
 
 Forthe model, we incorporate code from encore.ai, while updating the code with the latest Tensorflow API. The model is a LSTM model that could generate song lyrics. We trained the model with previous Cooper Pioneer issues, school's financial statement, curriculum and so on.  
 
-Click here for our spin-off version of the Cooper Pioneer.  
+Click [here](https://github.com/raymondminglee/Data-Science/raw/master/Pioneer.pdf) for our spin-off version of the Cooper Pioneer.  
 
-<img src="pic/AIPioneer.PNG?raw=true"/>
+[<img src="pic/AIPioneer.PNG?raw=true"/>](https://github.com/raymondminglee/Data-Science/raw/master/Pioneer.pdf)
