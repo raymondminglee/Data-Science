@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+
+description: >
+  This page contain some of my smaller projects relating to data science/machine learning.
+  These projects varies in topics from simple exploratory data analysis to project combining 
+  art and machine learning. I've also included some small python code I've written for my course 
+  on datascience.
+  
+
+  <br><br>
+  <a href='https://raymondminglee.github.io'>Back to homepage</a>
